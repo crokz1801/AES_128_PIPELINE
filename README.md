@@ -128,16 +128,7 @@ Pipelining improves performance by:
 - Design balances **throughput, area, and scalability**
 - Suitable for high-performance cryptographic accelerators
 
----
 
-## 👥 Team
-
-**TEAM I/O Tea ☕**
-- Manoj Kumar Mali  
-- Manas Dhaketa  
-- K. Yashwant Rao  
-- Darshana Baruah  
-- Gaurav Singh Bora  
 
 ---
 
